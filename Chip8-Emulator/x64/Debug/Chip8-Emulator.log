@@ -1,0 +1,5 @@
+﻿  Chip8.cpp
+D:\Chip8-Emulator\Chip8-Emulator\Chip8.h(65,48): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+  (compiling source file 'Chip8.cpp')
+  
+  Chip8-Emulator.vcxproj -> D:\Chip8-Emulator\x64\Debug\Chip8-Emulator.exe

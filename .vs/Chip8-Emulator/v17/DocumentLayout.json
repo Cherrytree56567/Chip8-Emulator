@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chip8-Emulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAED9DDF-9C52-47D2-B7A5-AFCBAEB7DFA9}|Chip8-Emulator\\Chip8-Emulator.vcxproj|D:\\Chip8-Emulator\\Chip8-Emulator\\Chip8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAED9DDF-9C52-47D2-B7A5-AFCBAEB7DFA9}|Chip8-Emulator\\Chip8-Emulator.vcxproj|solutionrelative:Chip8-Emulator\\Chip8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAED9DDF-9C52-47D2-B7A5-AFCBAEB7DFA9}|Chip8-Emulator\\Chip8-Emulator.vcxproj|D:\\Chip8-Emulator\\Chip8-Emulator\\Chip8.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAED9DDF-9C52-47D2-B7A5-AFCBAEB7DFA9}|Chip8-Emulator\\Chip8-Emulator.vcxproj|solutionrelative:Chip8-Emulator\\Chip8.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAED9DDF-9C52-47D2-B7A5-AFCBAEB7DFA9}|Chip8-Emulator\\Chip8-Emulator.vcxproj|D:\\Chip8-Emulator\\Chip8-Emulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAED9DDF-9C52-47D2-B7A5-AFCBAEB7DFA9}|Chip8-Emulator\\Chip8-Emulator.vcxproj|solutionrelative:Chip8-Emulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAED9DDF-9C52-47D2-B7A5-AFCBAEB7DFA9}|Chip8-Emulator\\Chip8-Emulator.vcxproj|D:\\Chip8-Emulator\\Chip8-Emulator\\Logging.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAED9DDF-9C52-47D2-B7A5-AFCBAEB7DFA9}|Chip8-Emulator\\Chip8-Emulator.vcxproj|solutionrelative:Chip8-Emulator\\Logging.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logging.h",
+              "DocumentMoniker": "D:\\Chip8-Emulator\\Chip8-Emulator\\Logging.h",
+              "RelativeDocumentMoniker": "Chip8-Emulator\\Logging.h",
+              "ToolTip": "D:\\Chip8-Emulator\\Chip8-Emulator\\Logging.h",
+              "RelativeToolTip": "Chip8-Emulator\\Logging.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-03T09:25:42.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chip8.h",
+              "DocumentMoniker": "D:\\Chip8-Emulator\\Chip8-Emulator\\Chip8.h",
+              "RelativeDocumentMoniker": "Chip8-Emulator\\Chip8.h",
+              "ToolTip": "D:\\Chip8-Emulator\\Chip8-Emulator\\Chip8.h",
+              "RelativeToolTip": "Chip8-Emulator\\Chip8.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-03T08:57:09.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chip8.cpp",
+              "DocumentMoniker": "D:\\Chip8-Emulator\\Chip8-Emulator\\Chip8.cpp",
+              "RelativeDocumentMoniker": "Chip8-Emulator\\Chip8.cpp",
+              "ToolTip": "D:\\Chip8-Emulator\\Chip8-Emulator\\Chip8.cpp",
+              "RelativeToolTip": "Chip8-Emulator\\Chip8.cpp",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAiwJAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T08:57:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Chip8-Emulator\\Chip8-Emulator\\main.cpp",
+              "RelativeDocumentMoniker": "Chip8-Emulator\\main.cpp",
+              "ToolTip": "D:\\Chip8-Emulator\\Chip8-Emulator\\main.cpp",
+              "RelativeToolTip": "Chip8-Emulator\\main.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T08:57:07.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

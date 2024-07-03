@@ -28,7 +28,17 @@
 #include <iostream>
 #include "Chip8.h"
 
-int main() {
-    std::cout << "Hello World!" << std::endl;
+int main(int argc, char *argv[]) {
+    if (argc < 2) {
+        std::cout << "Not Enough Args!\n";
+        return -1;
+    }
+
+    Chip8 emulator;
+
+    emulator.LoadROM(argv[1]);
+
+    emulator.Loop();
+
     return 0;
 }
